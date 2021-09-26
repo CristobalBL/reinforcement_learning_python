@@ -1,2 +1,3 @@
-# reinforcement_learning_python
+# Reinforcement Learning using Python
+
 Some examples of reinforcement learning using python
